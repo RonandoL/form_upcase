@@ -1,0 +1,20 @@
+.italics {
+  font-style: italic;
+}
+
+.redish {
+  color: #990000;
+}
+
+.indent-left {
+  margin-left: 200px;
+}
+
+hr {
+  width: 85%;
+  margin-top: 55px;
+}
+
+#results {
+  display: none;
+}
